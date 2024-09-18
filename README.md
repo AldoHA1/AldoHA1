@@ -1,6 +1,6 @@
 <h2>Software Developer 🐱‍👤</h2>
-Hi there, I'm Aldo Herrera😁✌ I'm a software developer with more than 5 years in the software industry.
-In these 5 years, I've worked for 4 companies in Costa Rica 🌋, where I've had to develop multiple solutions for foreign clients, with very extensive teams ( ´･･)ﾉ(._.`)
+Hi there, I'm Aldo Herrera😁✌ I'm a software developer with over 6 years in the software industry.
+In these 6 years, I've worked for 4 companies in Costa Rica 🌋, where I've had to develop multiple solutions for foreign clients, with very extensive teams ( ´･･)ﾉ(._.`)
 and where I met a bunch of new technologies. <small><i>I've got the intuition that I love 💘 JavaScript technologies.</i></small>
 
 Some of the technologies that I've worked on are 👨‍💻
