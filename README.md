@@ -26,9 +26,10 @@ Some of the technologies that I've worked on are 👨‍💻
  What am I learning right now? 🌱
  
  <ul>
-  <li>Wordpress</li>
+  <li>Nest JS</li>
   <li>Advance Typescript</li>
-  <li>Ruby On Rails</li>
+  <li>Ruby</li>
+  <li>Ruby On Rails </li>
  </ul>
  
  Social Media 😁
